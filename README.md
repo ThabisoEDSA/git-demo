@@ -2,6 +2,7 @@
 
 This is the first line in this repo
 
-## Ipsum Below
+## Website Contents
+Here are the files in the website
 
 	1. Website index.html
